@@ -1,16 +1,20 @@
-## Hi there 👋
+# SOBRE MÍ
 
-<!--
-**Jorgeotero1998/Jorgeotero1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola, soy Jorge Otero
+### Full Stack Software Developer en Formación 🚀
+**Estudiante en 4Geeks Academy**
 
-Here are some ideas to get you started:
+Actualmente me encuentro sumergido en el aprendizaje intensivo de tecnologías Full Stack, desarrollando proyectos reales y perfeccionando mi lógica de programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stack Tecnológico (4Geeks Curriculum)
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js.
+* **Backend:** Python, Flask, SQLAlchemy.
+* **Bases de Datos:** PostgreSQL, SQLite.
+* **Herramientas:** Git, GitHub, Postman, Bash.
+
+---
+
+### 📫 Contacto
+* **Email:** jorgotero4@gmail.com
