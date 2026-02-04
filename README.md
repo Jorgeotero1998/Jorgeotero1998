@@ -37,9 +37,7 @@ A neural orchestration system capable of breaking down complex objectives into d
 
 ### **Full Stack Software Developer** 💻🚀
 Especializado en construir aplicaciones web robustas, escalables y eficientes. Mi enfoque está en el desarrollo de arquitecturas modernas que integran **Inteligencia Artificial** y **Microservicios** para resolver problemas del mundo real.
-
 ---
-
 ### 🛠️ Mi Stack Tecnológico
 
 | Capa | Tecnologías |
