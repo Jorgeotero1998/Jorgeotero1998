@@ -1,4 +1,38 @@
-# SOBRE MÍ
+---
+# ABOUT ME / SOBRE MÍ
+
+Hello, I'm Jorge Otero 👋
+
+**Full Stack Software Developer** 💻🚀
+
+Specialized in building robust, scalable, and efficient web applications. My focus is on developing modern architectures that integrate **Artificial Intelligence** and **Microservices** to solve real-world problems.
+
+### 🛠️ Tech Stack
+
+| Layer | Technologies |
+| --- | --- |
+| **Frontend** | React 18, Vite, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Framer Motion |
+| **Backend** | Python, Flask, Groq Cloud API, REST APIs, JWT (Auth) |
+| **Databases** | PostgreSQL, SQLite, SQLAlchemy (ORM) |
+| **DevOps & Tools** | Docker, Docker Compose, Nginx, Git, GitHub, Postman, Bash/PowerShell |
+
+### 🏗️ Featured Projects
+
+🤖 **AI Task Orchestrator**
+A neural orchestration system capable of breaking down complex objectives into detailed technical tasks.
+* **Stack:** React, Flask, Groq API, Docker.
+* **Key Feature:** Production-ready containerized architecture and complex state management on the frontend.
+
+### 🎓 Education & Growth
+
+⚡ **Currently pursuing:** Full Stack Software Development at **4Geeks Academy**.
+🔭 **Interests:** Algorithm optimization, Generative AI, and Cloud Native architectures.
+🌱 **Continuous Learning:** Expanding my knowledge in automated testing and Continuous Deployment (CI/CD).
+
+### 📫 Let's Connect
+
+📧 **Email:** jorgotero4@gmail.com
+💬 **Let's talk about:** Web development, API integration, or new technologies.# SOBRE MÍ
 # Hola, soy Jorge Otero 👋
 
 ### **Full Stack Software Developer** 💻🚀
