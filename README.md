@@ -1,4 +1,43 @@
-# SOBRE MÍ / ABOUT ME
+# ABOUT ME
+
+Hi, I'm Jorge Otero 👋 **Full Stack Software Developer** 💻🚀
+
+Specialized in building robust, scalable, and efficient web applications. My focus is on developing modern architectures that integrate **Server Components**, **Microservices**, and **Artificial Intelligence** to solve real-world problems.
+
+🛠️ **Tech Stack**
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | Next.js 16 (Turbo), React 18, TypeScript, Tailwind CSS, Framer Motion |
+| **Backend** | NestJS, Node.js, Python, Flask, Groq Cloud API, JWT (Auth) |
+| **Databases** | PostgreSQL, Prisma ORM, SQLAlchemy, SQLite |
+| **DevOps & Tools** | Docker, Docker Compose, Git, GitHub, Postman, Bash/PowerShell |
+
+🏗️ **Featured Projects**
+
+🏬 **[IND.STORE - Industrial Asset Management](https://github.com/Jorgeotero1998/Ecommerce)**
+An industrial-scale eCommerce platform with a high-engineering interface. It implements complex dynamic filtering, persistent state management, and a scalable modular architecture.
+* **Stack:** Next.js 16, NestJS, Prisma, PostgreSQL, Docker.
+* **Key Feature:** Optimized industrial UI/UX and professional-grade data persistence.
+
+🤖 **AI Task Orchestrator**
+A neural orchestration system capable of breaking down complex objectives into detailed technical tasks. 
+* **Stack:** React, Flask, Groq API, Docker.
+* **Key Feature:** Production-ready containerized architecture.
+
+🎓 **Education & Growth**
+
+* ⚡ **Currently pursuing:** Full Stack Software Development at **4Geeks Academy**.
+* 🔭 **Interests:** Algorithm optimization, Generative AI, and Cloud Native architectures.
+* 🌱 **Continuous Learning:** Automated testing (Jest/Cypress) and Continuous Deployment (CI/CD).
+
+📫 **Let's Connect**
+
+* 📧 **Email:** jorgotero4@gmail.com
+* 💬 **Let's talk about:** Web development, API integration, or new technologies.
+* 🔗 **GitHub:** [Jorgeotero1998](https://github.com/Jorgeotero1998)
+
+* # SOBRE MÍ / ABOUT ME
 
 Hola, soy Jorge Otero 👋 **Full Stack Software Developer** 💻🚀
 
