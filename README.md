@@ -21,7 +21,7 @@ An industrial-scale eCommerce platform with a high-engineering interface. It imp
 * **Key Feature:** Optimized industrial UI/UX and professional-grade data persistence.
 
 🤖 **AI Task Orchestrator**
-A neural orchestration system capable of breaking down complex objectives into detailed technical tasks. 
+ Orchestration system capable of breaking down complex objectives into detailed technical tasks. 
 * **Stack:** React, Flask, Groq API, Docker.
 * **Key Feature:** Production-ready containerized architecture.
 
