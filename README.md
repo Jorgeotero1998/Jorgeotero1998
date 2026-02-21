@@ -60,7 +60,7 @@ Plataforma de gestión de activos industriales con una interfaz de alta ingenier
 * **Key Feature:** UI/UX Industrial optimizada y sistema de autenticación centralizado.
 
 🤖 **AI Task Orchestrator**
-Sistema de orquestación neural capaz de desglosar objetivos complejos en tareas técnicas detalladas. 
+Sistema de orquestación capaz de desglosar objetivos complejos en tareas técnicas detalladas. 
 * **Stack:** React, Flask, Groq API, Docker.
 * **Key Feature:** Arquitectura de contenedores lista para producción.
 
