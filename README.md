@@ -1,2 +1,49 @@
-ABOUT MEHi, I'm Jorge Otero 👋 Automation & Python Solutions Engineer 💻🚀I specialize in building software that buys you time. My focus is on process automation, data extraction, and AI integration to eliminate manual tasks and optimize business operations.🛠️ Tech StackLayerTechnologiesAutomationPython (Expert), Selenium, Playwright, BeautifulSoup, PandasAI & BackendGroq Cloud API, OpenAI, Node.js (NestJS), Flask, JWT (Auth)DatabasesPostgreSQL, Prisma ORM, SQLAlchemy, SQLiteInfrastructureDocker, Docker Compose, Linux Terminal (Bash), Git, Postman🏗️ Featured Projects🤖 AI Task OrchestratorOrchestration system capable of breaking down complex objectives into detailed technical tasks using AI inference.Stack: Python, Flask, Groq API, Docker.Key Feature: Production-ready containerized architecture for task automation.🏬 IND.STORE - Industrial Asset ManagementIndustrial-scale platform with complex data persistence and modular architecture.Stack: Next.js 16, NestJS, Prisma, PostgreSQL, Docker.Key Feature: High-engineering interface optimized for large-scale asset management.🎓 Education & Growth⚡ Full Stack Software Development at 4Geeks Academy.🔭 Interests: Workflow optimization, Generative AI, and Cloud Native architectures.🌱 Continuous Learning: Automated testing (Pytest/Jest) and CI/CD pipelines.📫 Let's Connect📧 Email: jorgotero4@gmail.com💬 Let's talk about: Automation, API integration, or Python scripts.🔗 GitHub: Jorgeotero1998Versión en EspañolSOBRE MÍHola, soy Jorge Otero 👋 Ingeniero de Automatización y Soluciones Python 💻🚀Me especializo en construir software que te compra tiempo. Mi enfoque es la automatización de procesos, extracción de datos e integración de IA para eliminar tareas manuales y optimizar operaciones comerciales.🛠️ Stack TecnológicoCapaTecnologíasAutomatizaciónPython (Experto), Selenium, Playwright, BeautifulSoup, PandasIA & BackendGroq Cloud API, OpenAI, Node.js (NestJS), Flask, JWT (Auth)Bases de DatosPostgreSQL, Prisma ORM, SQLAlchemy, SQLiteInfraestructuraDocker, Docker Compose, Terminal Linux (Bash), Git, Postman
-🏗️ Featured Projects🤖 AI Task OrchestratorOrchestration system capable of breaking down complex objectives into detailed technical tasks using AI inference.Stack: Python, Flask, Groq API, Docker.Key Feature: Production-ready containerized architecture for task automation.🏬 IND.STORE - Industrial Asset ManagementIndustrial-scale platform with complex data persistence and modular architecture.Stack: Next.js 16, NestJS, Prisma, PostgreSQL, Docker.Key Feature: High-engineering interface optimized for large-scale asset management.🎓 Education & Growth⚡ Full Stack Software Development at 4Geeks Academy.🔭 Interests: Workflow optimization, Generative AI, and Cloud Native architectures.🌱 Continuous Learning: Automated testing (Pytest/Jest) and CI/CD pipelines.📫 Let's Connect📧 Email: jorgotero4@gmail.com💬 Let's talk about: Automation, API integration, or Python scripts.🔗 GitHub: Jorgeotero1998Versión en EspañolSOBRE MÍHola, soy Jorge Otero 👋 Ingeniero de Automatización y Soluciones Python 💻🚀Me especializo en construir software que te compra tiempo. Mi enfoque es la automatización de procesos, extracción de datos e integración de IA para eliminar tareas manuales y optimizar operaciones comerciales.🛠️ Stack TecnológicoCapaTecnologíasAutomatizaciónPython (Experto), Selenium, Playwright, BeautifulSoup, PandasIA & BackendGroq Cloud API, OpenAI, Node.js (NestJS), Flask, JWT (Auth)Bases de DatosPostgreSQL, Prisma ORM, SQLAlchemy, SQLiteInfraestructuraDocker, Docker Compose, Terminal Linux (Bash), Git, Postman🏗️ Proyectos Destacados🤖 AI Task OrchestratorSistema de orquestación capaz de desglosar objetivos complejos en tareas técnicas detalladas mediante inferencia de IA.Stack: Python, Flask, Groq API, Docker.Key Feature: Arquitectura en contenedores lista para producción para automatización de tareas.🏬 IND.STOREPlataforma industrial con persistencia de datos compleja y arquitectura modular.Stack: Next.js 16, NestJS, Prisma, PostgreSQL, Docker.Key Feature: Interfaz de alta ingeniería optimizada para gestión de activos a gran escala.🎓 Formación y Crecimiento⚡ Desarrollo de Software Full Stack en 4Geeks Academy.🔭 Intereses: Optimización de flujos de trabajo, IA Generativa y arquitecturas Cloud Native.🌱 Aprendizaje Continuo: Testing automatizado (Pytest/Jest) y despliegue continuo (CI/CD).📫 Conectemos📧 Email: jorgotero4@gmail.com💬 Hablemos sobre: Automatización, integración de APIs o scripts de Python.🔗 GitHub: Jorgeotero1998
+# ABOUT ME / SOBRE MÍ
+
+Hi, I'm Jorge Otero 👋 **Automation & Python Solutions Engineer** 💻🚀
+
+I specialize in building software that buys you time. My focus is on **process automation**, **data extraction**, and **AI integration** to eliminate manual tasks and optimize business operations.
+
+---
+
+### 🛠️ Tech Stack / Stack Tecnológico
+
+| Layer / Capa | Technologies / Tecnologías |
+| :--- | :--- |
+| **Automation** | Python (Expert), Selenium, Playwright, BeautifulSoup, Pandas |
+| **AI & Backend** | Groq Cloud API, OpenAI, Node.js (NestJS), Flask, JWT (Auth) |
+| **Databases** | PostgreSQL, Prisma ORM, SQLAlchemy, SQLite |
+| **Infrastructure** | Docker, Docker Compose, Linux Terminal (Bash), Git, Postman |
+
+---
+
+### 🏗️ Featured Projects / Proyectos Destacados
+
+🤖 **AI Task Orchestrator**
+Orchestration system capable of breaking down complex objectives into detailed technical tasks using AI inference.
+* **Stack:** Python, Flask, Groq API, Docker.
+* **Key Feature:** Production-ready containerized architecture for task automation.
+
+🏬 **[IND.STORE](https://github.com/Jorgeotero1998/Ecommerce)**
+Industrial-scale platform with complex data persistence and modular architecture.
+* **Stack:** Next.js 16, NestJS, Prisma, PostgreSQL, Docker.
+* **Key Feature:** High-engineering interface optimized for large-scale asset management.
+
+---
+
+### 🎓 Education & Growth / Formación y Crecimiento
+
+* ⚡ **Full Stack Software Development** at **4Geeks Academy**.
+* 🔭 **Interests:** Workflow optimization, Generative AI, and Cloud Native architectures.
+* 🌱 **Continuous Learning:** Automated testing (Pytest/Jest) and CI/CD pipelines.
+
+---
+
+### 📫 Let's Connect / Conectemos
+
+* 📧 **Email:** [jorgotero4@gmail.com](mailto:jorgotero4@gmail.com)
+* 💬 **Let's talk about:** Automation, API integration, or Python scripts.
+* 🔗 **GitHub:** [Jorgeotero1998](https://github.com/Jorgeotero1998)
+
+---
+*"Optimization is the only way to scale / Optimizar es la única forma de escalar."*
