@@ -5,15 +5,9 @@ I specialize in the intersection of **Process Automation** and **Digital Securit
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,powershell,windows,linux,docker,bash" alt="Security & Core" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,nestjs,nodejs,postgres,prisma,sqlite" alt="Backend & DB" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=selenium,playwright,postman,git,github,vscode" alt="Tools" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,powershell,bash,windows,linux,docker,github,vscode,flask,nestjs,nodejs,postgres,prisma,mongodb,sqlite,selenium,postman,re" />
+  </a>
 </p>
 
 ### 🛡️ Cybersecurity & SOC Focus
