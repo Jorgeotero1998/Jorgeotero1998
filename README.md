@@ -1,49 +1,58 @@
-# ABOUT ME / SOBRE MÍ
+# Hi, I'm Jorge Otero 👋
+### Python Automation Engineer | Cybersecurity & SOC Analyst 🛡️⚡
 
-Hi, I'm Jorge Otero 👋 **Automation & Python Solutions Engineer** 💻🚀
-
-I specialize in building software that buys you time. My focus is on **process automation**, **data extraction**, and **AI integration** to eliminate manual tasks and optimize business operations.
+I specialize in the intersection of **Process Automation** and **Digital Security**. I build intelligent systems that monitor, protect, and optimize environments through Python-driven engineering.
 
 ---
 
-### 🛠️ Tech Stack / Stack Tecnológico
+### 🛡️ Cybersecurity & SOC Focus
+- **Threat Detection:** Developing EDR-like telemetry tools for real-time system monitoring.
+- **Forensic Auditing:** Expertise in structured logging (JSON/SIEM format) and event analysis.
+- **System Integrity:** Deep understanding of Windows/Linux internals and behavioral analysis.
 
-| Layer / Capa | Technologies / Tecnologías |
+### ⚙️ Automation & AI Engineering
+- **Workflow Optimization:** Building scalable engines that eliminate manual overhead.
+- **Data Intelligence:** Advanced web scraping, data extraction, and AI-driven task orchestration.
+- **Reliable Infrastructure:** Containerized architectures (Docker) and clean, maintainable code.
+
+---
+
+### 🛠️ Tech Stack
+
+| Domain | Technologies |
 | :--- | :--- |
-| **Automation** | Python (Expert), Selenium, Playwright, BeautifulSoup, Pandas |
-| **AI & Backend** | Groq Cloud API, OpenAI, Node.js (NestJS), Flask, JWT (Auth) |
-| **Databases** | PostgreSQL, Prisma ORM, SQLAlchemy, SQLite |
-| **Infrastructure** | Docker, Docker Compose, Linux Terminal (Bash), Git, Postman |
+| **Security** | Windows API Monitoring, Forensic Logging, Heuristic Analysis, Malware Pattern Detection |
+| **Automation** | Python (Expert), Selenium, Playwright, BeautifulSoup, Pandas, Bash Scripting |
+| **Backend & AI** | Groq Cloud, OpenAI, Flask, NestJS, JWT Auth, SQLAlchemy |
+| **Infrastructure** | Docker, PostgreSQL, Prisma, Git/GitHub, Linux Admin |
 
 ---
 
-### 🏗️ Featured Projects / Proyectos Destacados
+### 🚀 Featured Security & Automation Projects
 
-🤖 **AI Task Orchestrator**
-Orchestration system capable of breaking down complex objectives into detailed technical tasks using AI inference.
-* **Stack:** Python, Flask, Groq API, Docker.
-* **Key Feature:** Production-ready containerized architecture for task automation.
+#### 🛡️ [Sentinel](https://github.com/Jorgeotero1998/SentinelSoc)
+**Endpoint Detection & Response (EDR) Agent** * **Challenge:** Detecting ransomware-like behavior through real-time file system telemetry.
+* **Tech:** Python, Windows API (`winreg`, `ReadDirectoryChangesW`), JSON Forensics.
+* **Impact:** Real-time burst-rate detection with zero-latency event processing.
 
-🏬 **[IND.STORE](https://github.com/Jorgeotero1998/Ecommerce)**
-Industrial-scale platform with complex data persistence and modular architecture.
-* **Stack:** Next.js 16, NestJS, Prisma, PostgreSQL, Docker.
-* **Key Feature:** High-engineering interface optimized for large-scale asset management.
+#### 🤖 [AI Task Orchestrator](https://github.com/Jorgeotero1998/ai-task-orchestrator)
+**Autonomous Task Decomposition Engine** * **Challenge:** Breaking complex goals into executable technical workflows.
+* **Tech:** Python, Groq API, Docker, Flask.
+* **Impact:** Production-ready system for high-speed AI inference and orchestration.
 
----
-
-### 🎓 Education & Growth / Formación y Crecimiento
-
-* ⚡ **Full Stack Software Development** at **4Geeks Academy**.
-* 🔭 **Interests:** Workflow optimization, Generative AI, and Cloud Native architectures.
-* 🌱 **Continuous Learning:** Automated testing (Pytest/Jest) and CI/CD pipelines.
+#### 🏬 [IND.STORE](https://github.com/Jorgeotero1998/Ecommerce)
+**Industrial-Scale Asset Management Platform** * **Tech:** Next.js 16, NestJS, Prisma, PostgreSQL.
+* **Impact:** High-engineering modular architecture designed for large-scale data persistence.
 
 ---
 
-### 📫 Let's Connect / Conectemos
+### 🎓 Education & Certifications
+- **Full Stack Software Development** | 4Geeks Academy
+- **Specialization:** Python for Cybersecurity and Automated Threat Response.
 
-* 📧 **Email:** [jorgotero4@gmail.com](mailto:jorgotero4@gmail.com)
-* 💬 **Let's talk about:** Automation, API integration, or Python scripts.
-* 🔗 **GitHub:** [Jorgeotero1998](https://github.com/Jorgeotero1998)
+### 📫 Connect with me
+- **Email:** [jorgotero4@gmail.com](mailto:jorgotero4@gmail.com)
+- **LinkedIn:** [in/jorgeotero1998](https://linkedin.com/in/jorgeotero1998)
+- **Talk to me about:** Automation, SOC Operations, Python Security Scripts, or AI integration.
 
----
-*"Optimization is the only way to scale / Optimizar es la única forma de escalar."*
+> *"Security is not a product, it's a process of optimization."*
