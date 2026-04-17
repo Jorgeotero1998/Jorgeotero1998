@@ -1,4 +1,4 @@
-# Hi, I'm Jorge Otero 👋
+
 ### Python Automation Engineer | Cybersecurity & SOC Analyst 🛡️⚡
 
 I specialize in the intersection of **Process Automation** and **Digital Security**. I build intelligent systems that monitor, protect, and optimize environments through Python-driven engineering.
