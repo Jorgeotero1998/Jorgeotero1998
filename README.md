@@ -1,157 +1,146 @@
 <div align="center">
 
-# 🛡️ Python Automation Engineer | Cybersecurity & SOC Analyst
-
-### Building intelligent systems that monitor, protect, and optimize
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorgeotero1998)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgotero4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jorgeotero1998)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019dbfb6a809f97fea)
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=500&color=0A66C2&center=true&vCenter=true&width=900&height=70&lines=🛡️+Python+Automation+Engineer;🔐+Cybersecurity+%26+SOC+Analyst;⚡+Building+Intelligent+Security+Systems)
 
 </div>
 
 ---
 
-## 📊 **LIVE STATS & METRICS**
+## 👨‍💻 **Engineering Profile**
+
+I'm a **Python Automation Engineer** specializing in **Cybersecurity & SOC Operations**. I build intelligent systems that monitor, protect, and optimize digital infrastructure through process automation and real-time threat detection.
+
+**"I build systems that are secure by design and intelligent by default."**
+
+---
+
+## 🐍 **2025 & 2026 Development Journey**
+
+[![GitHub Contribution Grid](https://github-readme-stats.vercel.app/api?username=Jorgeotero1998&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0A66C2&text_color=e0e6ed&icon_color=0A66C2&include_all_commits=true)](https://github.com/Jorgeotero1998)
+
+---
+
+## 🚀 **Technical Arsenal**
+
+### **Core Expertise**
+
+| Category | Technologies |
+|:---|:---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Security** | Windows API • Threat Detection • Forensic Analysis • Heuristic Systems • Malware Pattern Recognition |
+| **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) |
+| **AI/LLM** | Groq Cloud API • OpenAI Integration • LLM Orchestration • Task Decomposition |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
+
+---
+
+## 🛡️ **Specialization Areas**
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jorgeotero1998&style=flat-square&color=0A66C2)
-![GitHub Followers](https://img.shields.io/github/followers/Jorgeotero1998?style=flat-square&color=0A66C2&label=Followers)
-![Repos](https://img.shields.io/badge/Repositories-55-0A66C2?style=flat-square)
+### Threat Detection & EDR Development
+Real-time endpoint monitoring | Ransomware detection | Behavioral analysis | SIEM integration
+
+### Process Automation & AI
+Workflow optimization | Task orchestration | Web scraping | Data intelligence
+
+### Enterprise Backend Architecture
+Microservices design | API development | Database optimization | System scalability
 
 </div>
 
 ---
 
-## 👨‍💻 **ABOUT ME**
+## 🏆 **Featured Projects**
 
-```python
-class PythonEngineer:
-    def __init__(self):
-        self.specialization = [
-            "Process Automation",
-            "Cybersecurity & SOC",
-            "Threat Detection",
-            "AI Integration"
-        ]
-        self.focus = "Building systems that protect digital infrastructure"
-        self.location = "Buenos Aires, Argentina"
-        
-    def expertise(self):
-        return {
-            "primary": ["Python", "Windows/Linux Systems", "Threat Detection"],
-            "automation": ["Web Scraping", "Workflow Engines", "Task Orchestration"],
-            "backend": ["Flask", "NestJS", "FastAPI"],
-            "database": ["PostgreSQL", "MongoDB", "SQLite"],
-            "infrastructure": ["Docker", "GitHub Actions", "Linux Admin"]
-        }
-```
-
----
-
-## 💻 **TECHNICAL STACK**
-
-### 🔧 **Core Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🛡️ **Security & Monitoring**
-![Windows API](https://img.shields.io/badge/Windows_API-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Threat Detection](https://img.shields.io/badge/Threat_Detection-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Forensics](https://img.shields.io/badge/Forensics-DC143C?style=for-the-badge&logo=lock&logoColor=white)
-
-### 🚀 **Backend & AI**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq_API-000000?style=for-the-badge&logo=api&logoColor=white)
-
-### 🗄️ **Databases & ORM**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DC143C?style=for-the-badge&logo=database&logoColor=white)
-
-### 🏗️ **Infrastructure & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 **FEATURED PROJECTS**
-
-### 🛡️ **SENTINEL - EDR Agent**
+### **🛡️ SENTINEL - EDR Agent**
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/View_Repo-SentinelSoc-0A66C2?style=flat-square&logo=github)](https://github.com/Jorgeotero1998/SentinelSoc)
-![Language](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+[![Repository](https://img.shields.io/badge/GitHub-SentinelSoc-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jorgeotero1998/SentinelSoc)
+[![Status](https://img.shields.io/badge/Status-Production-success?style=flat)](https://github.com/Jorgeotero1998/SentinelSoc)
+[![Language](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Jorgeotero1998/SentinelSoc)
 
 </div>
 
-**Real-time Endpoint Detection & Response Engine**
+**Endpoint Detection & Response Engine with Real-Time Threat Analysis**
 
-- ⚡ Real-time file system monitoring with Windows API
-- 🧠 Ransomware behavior detection using heuristic analysis
-- 📊 SIEM-compatible JSON forensic logging
-- 🔍 Process and registry tracking with behavioral analysis
+- ⚡ Real-time file system monitoring using Windows API
+- 🧠 Ransomware behavior detection via heuristic analysis
+- 📊 JSON-formatted SIEM logging for enterprise integration
+- 🔍 Process tracking & behavioral analysis
 
 <details>
-<summary><b>Technical Details</b></summary>
+<summary><b>🔧 Technical Architecture</b></summary>
 
-**Architecture:**
-- Windows Kernel Monitoring → Real-Time Telemetry → Burst-Rate Detection → Heuristic Analysis → SIEM Logging
+```
+Windows Kernel Monitoring
+    ↓
+Real-Time Telemetry Collection
+    ↓
+Burst-Rate Detection Engine
+    ↓
+Heuristic Analysis Pipeline
+    ↓
+SIEM-Compatible JSON Logging
+    ↓
+Automated Threat Response
+```
 
-**Key Technologies:** Python 3.11+ • Windows API • Real-Time Processing • JSON Forensics
+**Tech Stack:** Python 3.11+ • Windows API • Real-Time Processing • JSON Forensics
 
 </details>
 
 ---
 
-### 🤖 **AI Task Orchestrator**
+### **🤖 AI Task Orchestrator**
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/View_Repo-ai--task--orchestrator-0A66C2?style=flat-square&logo=github)](https://github.com/Jorgeotero1998/ai-task-orchestrator)
-![Language](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+[![Repository](https://img.shields.io/badge/GitHub-ai--task--orchestrator-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jorgeotero1998/ai-task-orchestrator)
+[![Status](https://img.shields.io/badge/Status-Production-success?style=flat)](https://github.com/Jorgeotero1998/ai-task-orchestrator)
+[![Language](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Jorgeotero1998/ai-task-orchestrator)
 
 </div>
 
 **Autonomous Task Decomposition & Execution Engine**
 
-- 🧠 AI-powered task decomposition using Groq Cloud
-- ⚡ High-speed async processing for concurrent tasks
-- 🐳 Docker containerized deployment
+- 🧠 LLM-powered task decomposition using Groq Cloud
+- ⚡ Async processing for 100+ concurrent tasks
+- 🐳 Docker-native containerization
 - 📡 REST API with Flask backend
 
 <details>
-<summary><b>Technical Details</b></summary>
+<summary><b>🔧 Technical Architecture</b></summary>
 
-**Architecture:**
-- Complex Goal Input → LLM Processing → Task Decomposition → Execution Planning → Docker Execution → Real-Time Monitoring
+```
+Complex Goal Input
+    ↓
+Groq Cloud LLM Processing
+    ↓
+Task Decomposition Pipeline
+    ↓
+Execution Planning
+    ↓
+Docker Containerized Execution
+    ↓
+Real-Time Monitoring & Reporting
+```
 
-**Key Technologies:** Python • Groq API • Flask • Docker • AsyncIO
+**Tech Stack:** Python • Groq API • Flask • Docker • AsyncIO
 
 </details>
 
 ---
 
-### 🏬 **IND.STORE - Asset Management Platform**
+### **🏬 IND.STORE - Enterprise Platform**
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/View_Repo-Ecommerce-0A66C2?style=flat-square&logo=github)](https://github.com/Jorgeotero1998/Ecommerce)
-![Tech Stack](https://img.shields.io/badge/Next.js-NestJS-black?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+[![Repository](https://img.shields.io/badge/GitHub-Ecommerce-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jorgeotero1998/Ecommerce)
+[![Status](https://img.shields.io/badge/Status-Production-success?style=flat)](https://github.com/Jorgeotero1998/Ecommerce)
+[![Tech](https://img.shields.io/badge/Next.js-NestJS-black?style=flat)](https://github.com/Jorgeotero1998/Ecommerce)
 
 </div>
 
@@ -163,57 +152,31 @@ class PythonEngineer:
 - 📦 Advanced database optimization with Prisma
 
 <details>
-<summary><b>Technical Details</b></summary>
+<summary><b>🔧 Technical Architecture</b></summary>
 
-**Architecture:**
-- Next.js Frontend (SSR) → NestJS Backend → Prisma ORM → PostgreSQL Database → Docker Orchestration
+```
+Next.js 16 Frontend (SSR)
+    ↓
+REST/GraphQL API Layer
+    ↓
+NestJS Backend with JWT
+    ↓
+Prisma ORM Layer
+    ↓
+PostgreSQL Database
+    ↓
+Docker Orchestration
+```
 
-**Key Technologies:** Next.js 16 • NestJS • TypeScript • Prisma • PostgreSQL • Docker
+**Tech Stack:** Next.js 16 • NestJS • TypeScript • Prisma • PostgreSQL • Docker
 
 </details>
 
 ---
 
-## 🎓 **Education & Specializations**
-
-| Credential | Institution | Year |
-|:---|:---|:---:|
-| Full Stack Software Development | 4Geeks Academy | 2024 |
-| Python Cybersecurity Specialization | Advanced Training | 2024 |
-| Threat Detection & Analysis | Hands-On Projects | 2024 |
-| AI Integration & Automation | Industry Experience | 2024 |
-
----
-
-## 🎯 **What I Do**
-
-```
-✅ Build process automation systems that eliminate manual overhead
-✅ Design threat detection engines for real-time security monitoring
-✅ Create AI-powered orchestration systems for complex workflows
-✅ Develop backend architectures for enterprise applications
-✅ Implement secure, scalable infrastructure solutions
-✅ Write clean, maintainable code focused on performance
-✅ Integrate AI/LLM capabilities into production systems
-✅ Solve complex security and automation challenges
-```
-
----
-
-## 🔄 **Current Focus**
-
-- 🔴 **Working On:** Advanced EDR Detection Algorithms
-- 🟠 **Exploring:** AI-Powered Security Automation
-- 🟡 **Learning:** Kubernetes Security Implementation
-- 🟢 **Interested In:** SIEM Integration Frameworks
-
----
-
-## 📈 **GitHub Analytics**
+## 📊 **GitHub Analytics**
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jorgeotero1998&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0A66C2&text_color=e0e6ed&icon_color=0A66C2)](https://github.com/Jorgeotero1998)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeotero1998&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0A66C2&text_color=e0e6ed)](https://github.com/Jorgeotero1998)
 
@@ -221,39 +184,83 @@ class PythonEngineer:
 
 ---
 
-## 🌐 **Let's Connect**
+## 🎓 **Education & Credentials**
+
+| 🏆 Achievement | 📜 Credential | 🏢 Institution | 📅 Year |
+|:---:|:---|:---|:---:|
+| Full Stack Development | Advanced Software Engineering | 4Geeks Academy | 2024 |
+| Security Specialization | Python Cybersecurity & Threat Response | Professional Training | 2024 |
+| Automation Engineering | EDR/XDR Development & Deployment | Industry Experience | 2024 |
+| AI Integration | LLM & Orchestration Systems | Hands-On Projects | 2024 |
+
+---
+
+## 🎯 **Current Focus**
 
 <div align="center">
 
-**Talk to me about:**
-- Automation & Process Optimization
-- Security & Threat Detection
-- Python Engineering & Architecture
-- AI Integration & LLM Applications
-- Backend Development & System Design
-
-### Contact Information
-
-| Platform | Link |
-|:---|:---|
-| **Email** | [jorgotero4@gmail.com](mailto:jorgotero4@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/jorgeotero1998](https://linkedin.com/in/jorgeotero1998) |
-| **Upwork** | [Freelancer Profile](https://www.upwork.com/freelancers/~019dbfb6a809f97fea) |
-| **GitHub** | [github.com/Jorgeotero1998](https://github.com/Jorgeotero1998) |
+🔴 **Active:** Advanced EDR Detection Algorithms  
+🟠 **Exploring:** AI-Powered Security Automation  
+🟡 **Learning:** Kubernetes Security Implementation  
+🟢 **Interested In:** SIEM Integration Frameworks
 
 </div>
 
 ---
 
+## 📈 **Development Stats**
+
 <div align="center">
 
-### 💡 Engineering Philosophy
+![Profile Views](https://komarev.com/ghpvc/?username=Jorgeotero1998&style=flat-square&color=0A66C2)
+![Followers](https://img.shields.io/github/followers/Jorgeotero1998?style=flat-square&color=0A66C2)
+![Repositories](https://img.shields.io/badge/Repositories-47-0A66C2?style=flat-square)
+![Total Stars](https://img.shields.io/badge/Total%20Stars-216-0A66C2?style=flat-square)
 
-> **"Focus on solving real problems with clean code. Build systems that are secure, scalable, and maintainable. Automate the repetitive to focus on the strategic."**
+</div>
 
 ---
 
-**Last Updated:** May 22, 2026  
-**Status:** Open to Opportunities & Collaborations  
+## 💼 **What I Build**
+
+```
+✅ EDR/XDR Security Solutions for Enterprise
+✅ AI-Powered Automation Systems
+✅ Real-Time Threat Detection Engines
+✅ Enterprise Backend Architecture
+✅ Database Optimization & Scaling
+✅ CI/CD Pipeline Implementation
+✅ Cloud Infrastructure Security
+✅ LLM Integration & Orchestration
+```
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-jorgotero4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgotero4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorgeotero1998-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorgeotero1998)
+[![GitHub](https://img.shields.io/badge/GitHub-Jorgeotero1998-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jorgeotero1998)
+[![Upwork](https://img.shields.io/badge/Upwork-Available-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019dbfb6a809f97fea)
+
+**Talk to me about:** Automation • Security • Python Engineering • AI Integration • Backend Architecture
+
+</div>
+
+---
+
+## 💡 **Engineering Philosophy**
+
+<div align="center">
+
+> **"Focus on solving real problems with clean, maintainable code. Build systems that are secure by design, scalable by default, and efficient through intelligent automation."**
+
+---
+
+**Last Updated:** May 22, 2026 | **Open to Opportunities & Collaborations**
+
+![Footer](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=500&color=0A66C2&center=true&vCenter=true&width=600&height=30&lines=Building+the+Future+of+Security+%26+Automation;One+Intelligent+System+at+a+Time)
 
 </div>
