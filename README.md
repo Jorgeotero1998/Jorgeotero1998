@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge Otero</h1>
 <h3 align="center">
-Full Stack Developer • Python Specialist • Automation & Security Engineer
+Software Developer • Python Specialist • Automation & Security Engineer
 </h3>
 
 <p align="center">
