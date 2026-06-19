@@ -2,7 +2,7 @@
   <img src="16-ezgif.com-video-to-gif-converter.gif" alt="Jorge Otero Banner" width="100%">
 </p>
 
-## 🌐 ─── LANGUAGES ─── 🌐
+## 🌐 ─── Languages ─── 🌐
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="max-width: 100%;" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="max-width: 100%;" />
 </p>
 
-## ⚙️ ─── TECHNOLOGIES ─── ⚙️
+## ⚙️ ─── Technologies ─── ⚙️
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="max-width: 100%;" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" style="max-width: 100%;" />
 </p>
 
-## 💻 ─── FULL STACK PROJECTS & LIVE DEMOS ─── 💻
+## 💻 ─── Full stack projects and lives demos ─── 💻
 
 ### 🤖 AI Task Orchestrator
 <code>Intelligent architecture based on advanced language models to decompose complex objectives into structured and actionable technical tasks.</code>
