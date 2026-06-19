@@ -1,56 +1,60 @@
 <p align="center">
   <img src="16-ezgif.com-video-to-gif-converter.gif" alt="Jorge Otero Banner" width="100%">
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adamalston/adamalston/master/images/banner.gif" alt="Animated Nodes Banner" width="100%" />
-</p>
-
 ## 🌐 ─── LANGUAGES ─── 🌐
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="max-width: 100%;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="max-width: 100%;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="max-width: 100%;" />
 </p>
 
 ## ⚙️ ─── TECHNOLOGIES ─── ⚙️
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="max-width: 100%;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextdotjs/nextdotjs-original.svg" alt="Next.js" width="50" height="50" style="max-width: 100%;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="max-width: 100%;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" style="max-width: 100%;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="max-width: 100%;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="max-width: 100%;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="max-width: 100%;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="max-width: 100%;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="max-width: 100%;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" style="max-width: 100%;" />
 </p>
 
-## 💻 ─── FULL STACK PROJECTS ─── 💻
+## 💻 ─── FULL STACK PROJECTS & LIVE DEMOS ─── 💻
 
-### 🤖 [AI Task Orchestrator](https://github.com/Jorgeotero1998)
+### 🤖 AI Task Orchestrator
 <code>Intelligent architecture based on advanced language models to decompose complex objectives into structured and actionable technical tasks.</code>
 <br>
 <code>Next.js</code> • <code>TypeScript</code> • <code>AI Orchestration</code>
+<p align="left">
+  <a href="https://github.com/Jorgeotero1998">
+    <img src="https://img.shields.io/badge/Code_Repository-121214?style=for-the-badge&logo=github&logoColor=white" height="30" />
+  </a>
+</p>
 
-### 🏬 [LaVerde Store](https://laverde-frontend.onrender.com)
+### 🏬 LaVerde Store
 <code>Industrial-scale e-commerce platform featuring advanced dynamic filtering, checkout gateway, and persistent state management.</code>
 <br>
 <code>React</code> • <code>Node.js</code> • <code>E-Commerce</code>
+<p align="left">
+  <a href="https://laverde-frontend.onrender.com">
+    <img src="https://img.shields.io/badge/Live_Demo-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" />
+  </a>
+</p>
 
-### ✨ [3D Portfolio](https://portofolio-mu-lac.vercel.app/)
+### ✨ 3D Portfolio
 <code>Interactive professional showcase developed with three-dimensional rendering technologies for an immersive visual experience.</code>
 <br>
 <code>WebGL</code> • <code>Three.js</code> • <code>Frontend</code>
-
-## 🛡️ ─── CYBERSECURITY PROJECTS ─── 🛡️
-
-### 🛡️ [SentinelSoc](https://github.com/Jorgeotero1998)
-<code>Security monitoring and automation engine designed for critical metrics collection and defensive infrastructure analysis.</code>
-<br>
-<code>Python</code> • <code>Security Automation</code>
+<p align="left">
+  <a href="https://portofolio-mu-lac.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" height="30" />
+  </a>
+</p>
 
 ## 📊 ─── PROFILE ANALYTICS ─── 📊
 
