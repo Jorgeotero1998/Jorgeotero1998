@@ -27,16 +27,6 @@
 
 ## 💻 ─── Full stack projects and lives demos ─── 💻
 
-### 🤖 AI Task Orchestrator
-<code>Intelligent architecture based on advanced language models to decompose complex objectives into structured and actionable technical tasks.</code>
-<br>
-<code>Next.js</code> • <code>TypeScript</code> • <code>AI Orchestration</code>
-<p align="left">
-  <a href="https://github.com/Jorgeotero1998">
-    <img src="https://img.shields.io/badge/Code_Repository-121214?style=for-the-badge&logo=github&logoColor=white" height="30" />
-  </a>
-</p>
-
 ### 🏬 LaVerde Store
 <code>Industrial-scale e-commerce platform featuring advanced dynamic filtering, checkout gateway, and persistent state management.</code>
 <br>
