@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="nombre-de-tu-archivo.gif" alt="Jorge Otero Banner" width="100%">
+</p>
+
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/adamalston/adamalston/master/images/banner.gif" alt="Animated Nodes Banner" width="100%" />
 </p>
 
