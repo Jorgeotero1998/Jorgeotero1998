@@ -41,13 +41,16 @@ Building scalable systems, AI automation platforms and cybersecurity solutions.
 ## 🔥 Featured Projects
 
 | Project | Description |
-|---|---|
-| 🛡️ **SentinelSoc** | Lightweight Windows EDR engine with forensic telemetry logging |
-| 🤖 **AI Task Orchestrator** | AI-powered automation & intelligent workflow execution |
-| 🏬 **LaVerde Store** | Full Stack e-commerce platform with React + Flask |
+| :--- | :--- |
+| ✨ **3D Interactive Portfolio** | High-performance interactive 3D frontend built with React, Vite, and Three.js, featuring dynamic pink & orange tech spheres. |
+| 🛡️ **SentinelSoc** | Lightweight Windows EDR engine with forensic telemetry logging. |
+| 🤖 **AI Task Orchestrator** | AI-powered automation & intelligent workflow execution. |
+| 🏬 **LaVerde Store** | Full Stack e-commerce platform with React + Flask. |
 
-### 🌐 Live Demo
-🔗 https://laverde-frontend.onrender.com
+## 🌐 Live Demos
+
+🔗 **E-Commerce:** https://laverde-frontend.onrender.com
+🔗 **3D Portfolio:** https://portofolio-mu-lac.vercel.app/
 
 ---
 
