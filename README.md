@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="nombre-de-tu-archivo.gif" alt="Jorge Otero Banner" width="100%">
+  <img src="16-ezgif.com-video-to-gif-converter.gif" alt="Jorge Otero Banner" width="100%">
 </p>
 
 
