@@ -58,6 +58,3 @@
   </a>
   <a href="mailto:jorgotero4@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Jorgeotero1998&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
-</p>
