@@ -52,7 +52,7 @@
 <br>
 <code>React Three Fiber</code> • <code>Three.js</code> • <code>3D Data Viz</code>
 <p align="left">
-  <a href="https://global-three-one.vercel.app/">
+  <a "https://global-three-9nl71p2hi-jorge-oteros-projects-8c2c437e.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Demo-00DF89?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" />
   </a>
 </p>
