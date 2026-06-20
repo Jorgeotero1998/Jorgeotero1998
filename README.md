@@ -2,6 +2,10 @@
   <img src="16-ezgif.com-video-to-gif-converter.gif" alt="Jorge Otero Banner" width="100%">
 </p>
 
+[![Pines de la Comunidad de Programadores Argentina](https://programadoresargentina.com/api/badges/jorgeotero1998)](https://programadoresargentina.com/p/jorgeotero1998)
+
+
+
 ## 🌐 ─── Languages ─── 🌐
 
 <p align="left">
