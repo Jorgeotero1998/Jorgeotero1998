@@ -47,6 +47,16 @@
   </a>
 </p>
 
+### 🌐 Globe Pulse
+<code>Interactive 3D visualization of global demographic data featuring pulsating nodes, animated flow arcs, and realistic Earth textures.</code>
+<br>
+<code>React Three Fiber</code> • <code>Three.js</code> • <code>3D Data Viz</code>
+<p align="left">
+  <a href="https://global-three-one.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-00DF89?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" />
+  </a>
+</p>
+
 ## 📊 ─── PROFILE ANALYTICS ─── 📊
 
 <p align="left">
