@@ -5,7 +5,7 @@
 <h3 align="center">Full Stack Developer | Python & React | Backend-focused</h3>
 
 <p align="center">
-  Buenos Aires, Argentina · Open to Remote Junior/Mid roles
+  Buenos Aires, Argentina · Open to Remote Juniors/Mid roles
 </p>
 
 <p align="center">
