@@ -47,6 +47,39 @@
 
 ## 💻 ─── Full stack projects and live demos ─── 💻
 
+## 🎧 ─── Featured Project ─── 🎧
+
+<h3 align="center">Sonoteca — Deezer-first Music App</h3>
+
+<p align="center">
+  Catálogo real (Deezer) · Previews oficiales 30s · Playlists · Favoritos · Historial · Player premium
+</p>
+
+<p align="center">
+  <a href="https://sonoteca-hzbi.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
+  </a>
+  <a href="https://github.com/Jorgeotero1998/Sonoteca">
+    <img src="https://img.shields.io/badge/Repo-111111?style=for-the-badge&logo=github&logoColor=white" height="30" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="max-width: 100%;" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="max-width: 100%;" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" style="max-width: 100%;" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="max-width: 100%;" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width: 100%;" />
+</p>
+
+<p align="center">
+  <sub>
+    Stack: FastAPI · React/Vite · PostgreSQL (Neon) · Vercel Fullstack · Deezer API
+  </sub>
+</p>
+
+---
+
 ### 🌐 Globe Pulse
 <code>Interactive 3D visualization of global demographic data featuring pulsating nodes, animated flow arcs, and realistic Earth textures.</code>
 <br>
