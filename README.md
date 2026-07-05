@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Me · Quién soy
 
 <table>
   <tr>
@@ -18,15 +18,14 @@
 
 ### Hi, I'm **Jorge Otero**
 
-**Full Stack Developer · Python & React · Backend-focused**
+**Full Stack Developer · Python & React · Backend-focused**  
+📍 **Buenos Aires, Argentina** · Open to remote **Mid-level** roles
 
-📍 **Buenos Aires, Argentina** · Open to remote Mid-level roles
+I'm a developer with **~3 years** building web apps end to end — from API design and data modeling to polished React frontends. I started by **automating workflows with Python**; today I ship production apps with **React + Flask/FastAPI**, with a backend-first mindset.
 
-~**3 years** shipping production web apps — Python automation → **React + FastAPI/Flask**
+I'm **product-minded** — I care about clean deploys, tests, and real users, not just code that compiles. Right now I'm building **Sonoteca** (music platform), **LaVerde** (e-commerce), and **AI orchestration tools**.
 
-**Currently building:** Sonoteca · LaVerde · AI Task Orchestrator
-
-**Open to** Full Stack / Python backend opportunities
+**Looking for Full Stack or Python backend roles** — remote or Buenos Aires.
 
 <sub><i>Construyendo desde Argentina 🇦🇷</i></sub>
 
