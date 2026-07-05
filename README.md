@@ -8,35 +8,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;Python+%26+React;Backend-focused;Building+products+from+Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing intro"/>
 </p>
 
-<p align="center">
-  <a href="https://portofolio-mu-lac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/jorgeotero1998"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:jorgotero4@gmail.com"><img src="https://img.shields.io/badge/Email-jorgotero4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://portofolio-mu-lac.vercel.app/JORGE_OTERO_CV.pdf"><img src="https://img.shields.io/badge/CV-Download-238636?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
-</p>
-
-<p align="center">
-  <code>Buenos Aires, Argentina</code> · <code>Open to remote Mid-level roles</code> · <sub><i>Construyendo desde Argentina 🇦🇷</i></sub>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=65&section=footer&animation=twinkling" alt=""/>
-
 ---
 
-## 👨‍💻 About
+## 👋 About Me
 
 <table>
   <tr>
     <td width="65%" valign="top">
 
-I ship **full-stack products** end to end — API design, data modeling, auth, and polished React frontends.
+### Hi, I'm **Jorge Otero**
 
-My sweet spot is **Python backends** (FastAPI / Flask) paired with **TypeScript React** apps. I care about clean architecture, honest deploy labels, and interfaces that feel fast — the kind of work you'd expect from a product-minded engineer, not a tutorial clone.
+**Full Stack Developer · Python & React · Backend-focused**
 
-```diff
-+ Currently focused on: music platforms, AI orchestration, and 3D data visualization
-+ Previously: e-commerce capstones, legal-data scraping pipelines, security tooling
-```
+📍 **Buenos Aires, Argentina** · Open to remote Mid-level roles
+
+~**3 years** shipping production web apps — Python automation → **React + FastAPI/Flask**
+
+**Currently building:** Sonoteca · LaVerde · AI Task Orchestrator
+
+**Open to** Full Stack / Python backend opportunities
+
+<sub><i>Construyendo desde Argentina 🇦🇷</i></sub>
 
   </td>
   <td width="35%" align="center" valign="top">
@@ -47,34 +39,14 @@ My sweet spot is **Python backends** (FastAPI / Flask) paired with **TypeScript 
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://portofolio-mu-lac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://portofolio-mu-lac.vercel.app/JORGE_OTERO_CV.pdf"><img src="https://img.shields.io/badge/CV-Download-238636?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
+  <a href="https://www.linkedin.com/in/jorgeotero1998"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jorgotero4@gmail.com"><img src="https://img.shields.io/badge/Email-jorgotero4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=65&section=footer&animation=twinkling" alt=""/>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,ts,docker,postgres,vercel,git,threejs,vite&theme=dark" alt="Tech stack icons"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28"/>
-</p>
-
-| Layer | Tools |
-|:------|:------|
-| **Backend** | FastAPI, Flask, SQLAlchemy, Pydantic, JWT/RBAC, WebSockets |
-| **Frontend** | React, Vite, TypeScript, Three.js, React Three Fiber, Framer Motion |
-| **Data** | PostgreSQL, SQLite, REST APIs, Deezer API, Groq LLM |
-| **Ops** | Docker, Vercel, Render, GitHub Actions, Winston logging |
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=65&section=footer&animation=twinkling" alt=""/>
 
 ---
 
@@ -199,6 +171,33 @@ My sweet spot is **Python backends** (FastAPI / Flask) paired with **TypeScript 
 > `Sonoteca` · `LaVerde-Tienda` · `ai-task-orchestrator` · `Scraper` · `PersonalPortfolio` · `GlobalThree`  
 > *Profile → Customize your pins → drag to reorder (Sonoteca first).*
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=65&section=footer&animation=twinkling" alt=""/>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,ts,docker,postgres,vercel,git,threejs,vite&theme=dark" alt="Tech stack icons"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28"/>
+</p>
+
+| Layer | Tools |
+|:------|:------|
+| **Backend** | FastAPI, Flask, SQLAlchemy, Pydantic, JWT/RBAC, WebSockets |
+| **Frontend** | React, Vite, TypeScript, Three.js, React Three Fiber, Framer Motion |
+| **Data** | PostgreSQL, SQLite, REST APIs, Deezer API, Groq LLM |
+| **Ops** | Docker, Vercel, Render, GitHub Actions, Winston logging |
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=65&section=footer&animation=twinkling" alt=""/>
 
 ---
@@ -220,7 +219,7 @@ My sweet spot is **Python backends** (FastAPI / Flask) paired with **TypeScript 
 
 ## 📬 Contact
 
-**Open to remote Full Stack / Backend (Mid) roles** — happy to walk through any live demo above.
+**Looking for Full Stack or Python backend roles** — remote or Buenos Aires. Happy to walk through any live demo above.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorgeotero1998"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
