@@ -166,9 +166,6 @@ I'm **product-minded** — I care about clean deploys, tests, and real users, no
   </tbody>
 </table>
 
-> **📌 Pin these 6 repos on your GitHub profile:**  
-> `Sonoteca` · `LaVerde-Tienda` · `ai-task-orchestrator` · `Scraper` · `PersonalPortfolio` · `GlobalThree`  
-> *Profile → Customize your pins → drag to reorder (Sonoteca first).*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=65&section=footer&animation=twinkling" alt=""/>
 
