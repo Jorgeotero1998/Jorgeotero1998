@@ -204,12 +204,12 @@ I'm **product-minded** — I care about clean deploys, tests, and real users, no
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorgeotero1998&show_icons=true&theme=icons&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jorgeotero1998&show_icons=true&theme=icons&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117&cache_seconds=86400" alt="GitHub stats" height="170"/>
   <img src="https://streak-stats.demolab.com?user=Jorgeotero1998&theme=dark&hide_border=true&ring=58a6ff&fire=FF6B35&currStreakNum=e6edf3&sideLabels=e6edf3&dates=e6edf3&background=0D1117" alt="GitHub streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeotero1998&theme=icons&layout=compact&hide_border=true&langs_count=8&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117" alt="Top languages" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jorgeotero1998&theme=icons&layout=compact&hide_border=true&langs_count=8&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117&cache_seconds=86400" alt="Top languages" height="170"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=65&section=footer&animation=twinkling" alt=""/>
