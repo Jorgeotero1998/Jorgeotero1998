@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/🟢_AVAILABLE_FOR_HIRE-238636?style=for-the-badge" alt="Open to work"/>
   <img src="https://img.shields.io/badge/Stack-FastAPI_%2B_Flask_%2B_React-58A6FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="Stack"/>
-  <img src="https://img.shields.io/badge/Focus-Production_full_stack-24292f?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Location-Buenos_Aires-1f6feb?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/📍_Buenos_Aires-Remote_OK-24292f?style=for-the-badge" alt="Location"/>
 </p>
 
 <p align="center">
@@ -35,6 +35,8 @@
 ~3 years building end-to-end products from **Buenos Aires**: JWT/RBAC auth, Alembic migrations, Docker Compose, GitHub Actions, and live deploys on **Vercel** and **Render**. Backend-first mindset — tests, clean boundaries, demos that work on first click.
 
 Current flagship: [**Sonoteca**](https://sonoteca-hzbi.vercel.app/) — monorepo music platform with **Deezer API** catalog, 30s previews, playlists, and Neon Postgres.
+
+**Open to Full Stack & Python Backend roles** — remote worldwide or Buenos Aires. Available now.
 
 <sub>Python · TypeScript · PostgreSQL · Docker · CI/CD</sub>
 
@@ -163,18 +165,21 @@ Current flagship: [**Sonoteca**](https://sonoteca-hzbi.vercel.app/) — monorepo
 
 ---
 
-## Contact
+## Contact · Open to Work
+
+**Available for Full Stack or Python Backend (Mid) roles** — happy to walk through any live demo above.
 
 <p align="center">
+  <a href="mailto:jorgotero4@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-jorgotero4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/jorgeotero1998"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://portofolio-mu-lac.vercel.app/JORGE_OTERO_CV.pdf"><img src="https://img.shields.io/badge/📄_Download_CV-238636?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
   <a href="https://portofolio-mu-lac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/jorgeotero1998"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://portofolio-mu-lac.vercel.app/JORGE_OTERO_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-238636?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=footer&text=Thanks+for+stopping+by.&fontSize=15&fontColor=e6edf3&animation=twinkling" alt="Footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=footer&text=Let's+build+something+real.&fontSize=15&fontColor=e6edf3&animation=twinkling" alt="Footer" width="100%"/>
 </p>
 
 <p align="center">
-  <sub><i>Buenos Aires, Argentina 🇦🇷</i></sub>
+  <sub><i>Buenos Aires, Argentina 🇦🇷 · Open to remote</i></sub>
 </p>
