@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+production+APIs+%E2%86%92+React+%E2%86%92+live+on+Vercel;Full+Stack+%C2%B7+FastAPI+%2F+Flask+%2B+React;Backend-first+%C2%B7+tests+%C2%B7+Docker+%C2%B7+CI%2FCD;Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7+%C2%B7+Remote+worldwide" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+production+APIs+%E2%86%92+React+%E2%86%92+live+on+Vercel;Full+Stack+%C2%B7+FastAPI+%2F+Flask+%2B+React;Backend-first+%C2%B7+tests+%C2%B7+Docker+%C2%B7+CI%2FCD;Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing intro"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### Hi, I'm **Jorge Otero**
 
-**Full Stack Engineer · Python & React · Backend-first**  
+**Full Stack Engineer · Python (FastAPI/Flask) + React · Production systems**  
 📍 **Buenos Aires, Argentina**
 
 I design and ship **production full-stack systems** — API architecture, PostgreSQL data models, Alembic migrations, JWT/RBAC auth, Docker, and CI/CD pipelines with live Vercel/Render deploys. My flagship [**Sonoteca**](https://sonoteca-hzbi.vercel.app/) integrates the **Deezer API** for real catalog browsing, 30s previews, playlists, and role-based access control on a Vercel monorepo with Neon Postgres.
@@ -135,6 +135,10 @@ I own the full delivery loop: schema design, test coverage, clean deploys, and d
 <p align="center">
   <sub>More → <a href="https://portofolio-mu-lac.vercel.app/">Portfolio</a> · <a href="https://global-three-one.vercel.app/">GlobalThree</a> (3D data viz)</sub>
 </p>
+
+> **📌 Pin these 6 repos on your GitHub profile:**  
+> `Sonoteca` · `LaVerde-Tienda` · `ai-task-orchestrator` · `Scraper` · `GlobalThree` · `PersonalPortfolio`  
+> *Profile → Customize your pins → drag to reorder (Sonoteca first).*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=65&section=footer&animation=twinkling" alt=""/>
 
