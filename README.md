@@ -21,13 +21,13 @@
 **Full Stack Developer · Python (FastAPI/Flask) + React · PostgreSQL · Docker · CI/CD**  
 📍 **Buenos Aires, Argentina** · Open to remote
 
-Since **2023** I've been building production full-stack apps — freelance Python (automation, APIs, scraping), personal projects, and the **4Geeks Academy** capstone **LaVerde**. That's **~3 años construyendo**, not 3 years at a single employer. I ship API architecture, PostgreSQL schemas, Alembic migrations, JWT/RBAC, Docker, CI/CD, and live Vercel/Render deploys.
+I'm a developer with **~3 years** building web apps end to end — from API design and data modeling to polished React frontends. I started by **automating workflows with Python**; today I ship production apps with **React + Flask/FastAPI**, with a backend-first mindset.
 
-My flagship [**Sonoteca**](https://sonoteca-hzbi.vercel.app/) integrates the **Deezer API** for real catalog browsing, 30s previews, playlists, and role-based access control on a Vercel monorepo with Neon Postgres.
+I'm **product-minded** — I care about clean deploys, tests, and real users, not just code that compiles. Right now I'm building **Sonoteca** (music platform), **LaVerde** (e-commerce), and **AI orchestration tools**.
 
-I own the full delivery loop: schema design, test coverage, clean deploys, and demos that work on first click.
+**Looking for Full Stack or Python backend roles** — remote or Buenos Aires.
 
-<sub><i>~3 años construyendo apps full stack desde 2023 🇦🇷</i></sub>
+<sub><i>Construyendo desde Argentina 🇦🇷</i></sub>
 
   </td>
   <td width="35%" align="center" valign="top">
@@ -192,12 +192,12 @@ I own the full delivery loop: schema design, test coverage, clean deploys, and d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jorgeotero1998&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117&cache_seconds=86400" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorgeotero1998&show_icons=true&theme=icons&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117" alt="GitHub stats" height="170"/>
   <img src="https://streak-stats.demolab.com?user=Jorgeotero1998&theme=dark&hide_border=true&ring=58a6ff&fire=FF6B35&currStreakNum=e6edf3&sideLabels=e6edf3&dates=e6edf3&background=0D1117" alt="GitHub streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jorgeotero1998&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117&cache_seconds=86400" alt="Top languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeotero1998&theme=icons&layout=compact&hide_border=true&langs_count=8&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117" alt="Top languages" height="170"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=65&section=footer&animation=twinkling" alt=""/>
@@ -206,7 +206,7 @@ I own the full delivery loop: schema design, test coverage, clean deploys, and d
 
 ## 📬 Contact
 
-Portfolio, CV, and live demos — [**portofolio-mu-lac.vercel.app**](https://portofolio-mu-lac.vercel.app/) · GitHub profile above.
+**Looking for Full Stack or Python backend roles** — remote or Buenos Aires. Happy to walk through any live demo above.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorgeotero1998"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
