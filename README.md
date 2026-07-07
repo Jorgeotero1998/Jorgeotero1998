@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+production+APIs+%E2%86%92+React+%E2%86%92+live+on+Vercel;Full+Stack+%C2%B7+FastAPI+%2F+Flask+%2B+React;~3+a%C3%B1os+construyendo+desde+2023;Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+production+APIs+%E2%86%92+React+%E2%86%92+live+on+Vercel;Full+Stack+%C2%B7+FastAPI+%2F+Flask+%2B+React;Python+%C2%B7+PostgreSQL+%C2%B7+Docker;Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7+%C2%B7+Remote" alt="Typing intro"/>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ### Hi, I'm **Jorge Otero**
 
-**Full Stack Developer · Python (FastAPI/Flask) + React · Production portfolio**  
+**Full Stack Developer · Python (FastAPI/Flask) + React · PostgreSQL · Docker · CI/CD**  
 📍 **Buenos Aires, Argentina** · Open to remote
 
 Since **2023** I've been building production full-stack apps — freelance Python (automation, APIs, scraping), personal projects, and the **4Geeks Academy** capstone **LaVerde**. That's **~3 años construyendo**, not 3 years at a single employer. I ship API architecture, PostgreSQL schemas, Alembic migrations, JWT/RBAC, Docker, CI/CD, and live Vercel/Render deploys.
@@ -52,11 +52,9 @@ I own the full delivery loop: schema design, test coverage, clean deploys, and d
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://sonoteca-hzbi.vercel.app/">
-    <img src="assets/sonoteca.png" width="760" alt="Sonoteca — live music platform (FastAPI + React)"/>
-  </a>
-  <br/>
-  <sub><b>🎵 Sonoteca</b> — flagship · real Deezer catalog, 30s previews, playlists, RBAC · <a href="https://sonoteca-hzbi.vercel.app/">Live demo ↗</a> · <a href="https://github.com/Jorgeotero1998/Sonoteca">Code ↗</a></sub>
+  <a href="https://sonoteca-hzbi.vercel.app/"><img src="https://img.shields.io/badge/🎵_Sonoteca-FLAGSHIP-58A6FF?style=for-the-badge" alt="Sonoteca flagship"/></a>
+  &nbsp;
+  <a href="https://portofolio-mu-lac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <table>
@@ -111,7 +109,8 @@ I own the full delivery loop: schema design, test coverage, clean deploys, and d
       </td>
       <td>Groq + Llama 3.3 orchestrator that breaks complex tasks into executable steps with a React dashboard.</td>
       <td>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
         <img src="https://img.shields.io/badge/Groq-FF6B35?style=flat-square" height="20"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20"/>
       </td>
@@ -122,24 +121,7 @@ I own the full delivery loop: schema design, test coverage, clean deploys, and d
     </tr>
     <tr>
       <td>
-        <strong>✨ Portfolio</strong><br/>
-        <img src="https://img.shields.io/badge/3D-646CFF?style=flat-square" height="18" alt="3D"/>
-        <sub> · Developer site</sub>
-      </td>
-      <td>Interactive portfolio with Three.js tech spheres, project showcases, and downloadable CV.</td>
-      <td>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" height="20"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" height="20"/>
-      </td>
-      <td align="center">
-        <a href="https://portofolio-mu-lac.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28"/></a><br/>
-        <a href="https://github.com/Jorgeotero1998/PersonalPortfolio"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" height="22"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>🌍 GlobalThree</strong><br/>
+        <strong>🌍 Global Pulse</strong><br/>
         <img src="https://img.shields.io/badge/Data_Viz-FF6B6B?style=flat-square" height="18" alt="Data Viz"/>
         <sub> · 3D globe</sub>
       </td>
