@@ -21,11 +21,11 @@
 **Full Stack Developer · Python (FastAPI/Flask) + React · PostgreSQL · Docker · CI/CD**  
 📍 **Buenos Aires, Argentina** · Open to remote
 
-I'm a developer with **~3 years** building web apps end to end — from API design and data modeling to polished React frontends. I started by **automating workflows with Python**; today I ship production apps with **React + Flask/FastAPI**, with a backend-first mindset.
+I'm a developer with **~3 years building since 2023** — freelance automation, 4Geeks capstone, and self-directed apps. I ship production web apps end to end: API design, PostgreSQL, and polished React frontends with **FastAPI/Flask**, backend-first.
 
 I'm **product-minded** — I care about clean deploys, tests, and real users, not just code that compiles. Right now I'm building **Sonoteca** (music platform), **LaVerde** (e-commerce), and **AI orchestration tools**.
 
-**Looking for Full Stack or Python backend roles** — remote or Buenos Aires.
+**Open to Full Stack or Python backend roles** — remote international or Buenos Aires. No employment inflation: hands-on building, not 3 years at one employer.
 
 <sub><i>Construyendo desde Argentina 🇦🇷</i></sub>
 
@@ -206,7 +206,7 @@ I'm **product-minded** — I care about clean deploys, tests, and real users, no
 
 ## 📬 Contact
 
-**Looking for Full Stack or Python backend roles** — remote or Buenos Aires. Happy to walk through any live demo above.
+**Open to Full Stack or Python backend roles** — remote or Buenos Aires. Happy to walk through any live demo above.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorgeotero1998"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
