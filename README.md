@@ -18,7 +18,7 @@
 
 ### Hi, I'm **Jorge Otero**
 
-**Junior+ Full Stack Developer · Python (FastAPI/Flask) + React · Production portfolio**  
+**Full Stack Developer · Python (FastAPI/Flask) + React · Production portfolio**  
 📍 **Buenos Aires, Argentina** · Open to remote
 
 Since **2023** I've been building production full-stack apps — freelance Python (automation, APIs, scraping), personal projects, and the **4Geeks Academy** capstone **LaVerde**. That's **~3 años construyendo**, not 3 years at a single employer. I ship API architecture, PostgreSQL schemas, Alembic migrations, JWT/RBAC, Docker, CI/CD, and live Vercel/Render deploys.
@@ -50,6 +50,14 @@ I own the full delivery loop: schema design, test coverage, clean deploys, and d
 ---
 
 ## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://sonoteca-hzbi.vercel.app/">
+    <img src="assets/sonoteca.png" width="760" alt="Sonoteca — live music platform (FastAPI + React)"/>
+  </a>
+  <br/>
+  <sub><b>🎵 Sonoteca</b> — flagship · real Deezer catalog, 30s previews, playlists, RBAC · <a href="https://sonoteca-hzbi.vercel.app/">Live demo ↗</a> · <a href="https://github.com/Jorgeotero1998/Sonoteca">Code ↗</a></sub>
+</p>
 
 <table>
   <thead>
