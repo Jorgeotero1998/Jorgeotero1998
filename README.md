@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+production+APIs+%E2%86%92+React+%E2%86%92+live+on+Vercel;Full+Stack+%C2%B7+FastAPI+%2F+Flask+%2B+React;Python+%C2%B7+PostgreSQL+%C2%B7+Docker;Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7+%C2%B7+Remote" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%C2%B7+Python+%2B+React;FastAPI+%2F+Flask+%C2%B7+PostgreSQL+%C2%B7+Docker;Sonoteca+%C2%B7+flagship+music+platform;Buenos+Aires+%C2%B7+Remote" alt="Typing intro"/>
 </p>
 
 ---
@@ -21,11 +21,13 @@
 **Full Stack Developer · Python (FastAPI/Flask) + React · PostgreSQL · Docker · CI/CD**  
 📍 **Buenos Aires, Argentina** · Open to remote
 
-I'm a developer with **~3 years building since 2023** — freelance automation, 4Geeks capstone, and self-directed apps. I ship production web apps end to end: API design, PostgreSQL, and polished React frontends with **FastAPI/Flask**, backend-first.
+Since **2023** I've been building full-stack apps through freelance Python work (automation, APIs, scraping), personal projects, and the **4Geeks Academy** capstone **LaVerde**. I work across API design, PostgreSQL schemas, Alembic migrations, JWT/RBAC, Docker, CI/CD, and live Vercel/Render deploys.
 
 I'm **product-minded** — I care about clean deploys, tests, and real users, not just code that compiles. Right now I'm building **Sonoteca** (music platform), **LaVerde** (e-commerce), and **AI orchestration tools**.
 
-**Open to Full Stack or Python backend roles** — remote international or Buenos Aires. No employment inflation: hands-on building, not 3 years at one employer.
+I like owning the delivery loop: schema design, API implementation, React UI, test coverage, and clean deploys.
+
+**Open to Full Stack or Python backend roles** — remote international or Buenos Aires.
 
 <sub><i>Construyendo desde Argentina 🇦🇷</i></sub>
 
@@ -33,7 +35,7 @@ I'm **product-minded** — I care about clean deploys, tests, and real users, no
   <td width="35%" align="center" valign="top">
     <img src="https://media.giphy.com/media/qgQUggAc3Pfv687og0/giphy.gif" width="220" alt="Coding animation"/>
     <br/>
-    <sub><i>Always shipping, always learning</i></sub>
+    <sub><i>Building, learning, improving</i></sub>
   </td>
   </tr>
 </table>
@@ -90,7 +92,7 @@ I'm **product-minded** — I care about clean deploys, tests, and real users, no
         <img src="https://img.shields.io/badge/E--commerce-46E3B7?style=flat-square" height="18" alt="E-commerce"/>
         <sub> · Team capstone</sub>
       </td>
-      <td>Production-ready grocery store with cart persistence, checkout flow, and dynamic product filtering.</td>
+      <td>Grocery e-commerce capstone with cart persistence, checkout flow, dynamic product filtering, and admin tools.</td>
       <td>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="20"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
@@ -142,7 +144,7 @@ I'm **product-minded** — I care about clean deploys, tests, and real users, no
         <img src="https://img.shields.io/badge/CLI-2EAD33?style=flat-square" height="18" alt="CLI"/>
         <sub> · GitHub only</sub>
       </td>
-      <td>Production-grade legal-document scraper for Peruvian OEFA &amp; PJ portals — JSON/CSV export, rate limiting, Docker.</td>
+      <td>Legal-document scraper for Peruvian OEFA &amp; PJ portals — JSON/CSV export, rate limiting, Docker.</td>
       <td>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/>
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="20"/>
@@ -156,7 +158,7 @@ I'm **product-minded** — I care about clean deploys, tests, and real users, no
   </tbody>
 </table>
 
-
+> **Profile focus:** `Sonoteca` first, followed by `LaVerde-Tienda`, `ai-task-orchestrator`, `Scraper`, `PersonalPortfolio`, and `GlobalThree`.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=65&section=footer&animation=twinkling" alt=""/>
 
