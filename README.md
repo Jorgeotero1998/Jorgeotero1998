@@ -158,7 +158,7 @@ I like owning the delivery loop: schema design, API implementation, React UI, te
   </tbody>
 </table>
 
-> **Profile focus:** `Sonoteca` first, followed by `LaVerde-Tienda`, `ai-task-orchestrator`, `Scraper`, `PersonalPortfolio`, and `GlobalThree`.
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=65&section=footer&animation=twinkling" alt=""/>
 
