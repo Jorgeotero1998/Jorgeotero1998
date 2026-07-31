@@ -94,7 +94,7 @@ I like owning the delivery loop: schema design, API implementation, React UI, te
         <img src="https://img.shields.io/badge/FLAGSHIP-2DD4BF?style=flat-square" height="18" alt="Flagship"/>
         <sub> · SME management</sub>
       </td>
-      <td>Sistema de gestión para PyMEs — POS/caja, stock, clientes, reportes y roles.</td>
+      <td>SME management system — POS checkout, inventory, customers, reports, and roles.</td>
       <td>
         <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="20"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="20"/>
