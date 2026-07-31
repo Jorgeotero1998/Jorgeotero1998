@@ -23,7 +23,7 @@
 
 Since **2023** I've been building full-stack apps through freelance Python work (automation, APIs, scraping), personal projects, and the **4Geeks Academy** capstone **LaVerde**. I work across API design, PostgreSQL schemas, Alembic migrations, JWT/RBAC, Docker, CI/CD, and live Vercel/Render deploys.
 
-I'm **product-minded** — I care about clean deploys, tests, and real users, not just code that compiles. Right now I'm building **Sonoteca** (music platform), **LaVerde** (e-commerce), and **AI orchestration tools**.
+I'm **product-minded** — I care about clean deploys, tests, and real users, not just code that compiles. Right now I'm building **Negocio** (SME management), **Sonoteca** (music platform), **LaVerde** (e-commerce), and **AI orchestration tools**.
 
 I like owning the delivery loop: schema design, API implementation, React UI, test coverage, and clean deploys.
 
@@ -54,6 +54,8 @@ I like owning the delivery loop: schema design, API implementation, React UI, te
 ## 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/Jorgeotero1998/Negociov2"><img src="https://img.shields.io/badge/🏪_Negocio-FLAGSHIP-2DD4BF?style=for-the-badge" alt="Negocio flagship"/></a>
+  &nbsp;
   <a href="https://sonoteca-hzbi.vercel.app/"><img src="https://img.shields.io/badge/🎵_Sonoteca-FLAGSHIP-58A6FF?style=for-the-badge" alt="Sonoteca flagship"/></a>
   &nbsp;
   <a href="https://portofolio-mu-lac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -84,6 +86,24 @@ I like owning the delivery loop: schema design, API implementation, React UI, te
       <td align="center">
         <a href="https://sonoteca-hzbi.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28"/></a><br/>
         <a href="https://github.com/Jorgeotero1998/Sonoteca"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" height="22"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>🏪 Negocio</strong><br/>
+        <img src="https://img.shields.io/badge/FLAGSHIP-2DD4BF?style=flat-square" height="18" alt="Flagship"/>
+        <sub> · SME management</sub>
+      </td>
+      <td>Sistema de gestión para PyMEs — POS/caja, stock, clientes, reportes y roles.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20"/>
+      </td>
+      <td align="center">
+        <sub><i>Demo soon</i></sub><br/>
+        <a href="https://github.com/Jorgeotero1998/Negociov2"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" height="22"/></a>
       </td>
     </tr>
     <tr>
